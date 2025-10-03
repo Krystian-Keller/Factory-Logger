@@ -1,4 +1,3 @@
-# logger_pkg/file_logger.py
 from __future__ import annotations
 from .logger import Logger
 from .singleton import Singleton
